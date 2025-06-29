@@ -1,0 +1,26 @@
+.balance-widget {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  max-width: 300px;
+  font-family: Arial, sans-serif;
+}
+
+.account-count {
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.total-balance {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.warning {
+  background-color: #fff3cd;
+  color: #856404;
+  padding: 8px;
+  border-radius: 4px;
+  font-size: 14px;
+}
